@@ -1,1 +1,3 @@
-"# BSIS_lab2" 
+Name: Cristobal
+Age:20
+Pet name: buldog
